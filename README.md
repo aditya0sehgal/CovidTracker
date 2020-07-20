@@ -4,5 +4,3 @@
 
 Contributors
 
-Aditya Sehgal - adtiya0sehgal
-Vatsal Palan - vatsal1999
